@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGE9ZlzNybswA/profile-displaybackgroundimage-shrink_350_1400/0/1695283480907?e=1701907200&v=beta&t=RIOPYnnj-AD-2q2AWju6xMc82DUCtyvaywi8Da8Z-Vw)]
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGE9ZlzNybswA/profile-displaybackgroundimage-shrink_350_1400/0/1695283480907?e=1701907200&v=beta&t=RIOPYnnj-AD-2q2AWju6xMc82DUCtyvaywi8Da8Z-Vw)
 
 <h1 align="center">Hi 👋, I'm Osama Javed</h1>
 <h3 align="center">A passionate Flutter and WordPress freelance developer 👨‍💻 .</h3>
