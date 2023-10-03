@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **osamajaved2002@gmail.com**
 
-- ⚡ Fun fact **Most Software Engineers have, at some point, spent time coding and programming purely for fun – they enjoy scanning code for errors and other programming puzzles.**
+- ⚡ Fun fact: **Most Software Engineers have, at some point, spent time coding and programming purely for fun – they enjoy scanning code for errors and other programming puzzles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
