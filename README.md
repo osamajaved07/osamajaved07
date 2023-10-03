@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Osama Javed
-- 👀 I’m interested in developing new applications
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Osama Javed.
+- 👀 I’m interested in developing new applications.
+- 🔭 I’m currently working on open source projects.
+- 💬 Ask me about Flutter, WordPress or any Tech. related.
+- 😁 Pronounce: He/Him
+⚡ Fun fact: Most Software Engineers have, at some point, spent time coding and programming purely for fun – they enjoy scanning code for errors and other programming puzzles.
 - 📫 How to reach me ...
 
 <!---
